@@ -1,2 +1,5 @@
 # Ejemplos-java-sencillos
-Repositorio de los programas sencillos que iré realizando en Java
+Creo esto como repositorio de mis primeros pasos en java. Aquí subiré los primeros ejercicios que haga en la asignatura de programación através del IDE Eclipse.
+
+# Alumna propietaria del Repositorio
+Deyna Sánchez Ferreras
